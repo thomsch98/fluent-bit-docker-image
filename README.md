@@ -1,6 +1,8 @@
 # Fluent Bit Docker Image
 
-[Fluent Bit](http://fluentbit.io) Docker image based on Debian base image from Google.
+[Fluent Bit](http://fluentbit.io) Docker image based on:
+- Debian base image from Google
+- Dockers official Alpine image
 
 ## 1. Build image
 
