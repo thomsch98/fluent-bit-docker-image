@@ -4,7 +4,7 @@ FROM alpine:3.5
 ENV FLB_MAJOR 0
 ENV FLB_MINOR 11
 ENV FLB_PATCH 0
-ENV FLB_VERSION 0.11.4
+ENV FLB_VERSION 0.11.5
 
 ENV FLB_TARBALL https://github.com/fluent/fluent-bit/archive/v$FLB_VERSION.tar.gz
 
